@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 216c5d1e2dd524ff99215dc8a7ecb5a2
+timeCreated: 1432056493
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Snap_Set
+    100004: Straight_Half:Cage_Half
+    100006: Straight_Half:Cage_Half_ShadowBlocker
+    100008: Straight_Half:Panel_Ceiling_Straight_Bare
+    100010: Straight_Half:Panel_Floor_Straight_Bare
+    100012: Straight_Half:Panel_Wall_Straight_CurvedLower
+    100014: Straight_Half:Panel_Wall_Straight_CurvedLower1
+    100016: Straight_Half:Panel_Wall_Straight_CurvedUpper
+    100018: Straight_Half:Panel_Wall_Straight_CurvedUpper1
+    100020: Straight_Half:Panel_Wall_Straight_Flat_A
+    100022: Straight_Half:Panel_Wall_Straight_Flat_B
+    100024: Straight_Half:Straight_Half1
+    400000: //RootNode
+    400002: Snap_Set
+    400004: Straight_Half:Cage_Half
+    400006: Straight_Half:Cage_Half_ShadowBlocker
+    400008: Straight_Half:Panel_Ceiling_Straight_Bare
+    400010: Straight_Half:Panel_Floor_Straight_Bare
+    400012: Straight_Half:Panel_Wall_Straight_CurvedLower
+    400014: Straight_Half:Panel_Wall_Straight_CurvedLower1
+    400016: Straight_Half:Panel_Wall_Straight_CurvedUpper
+    400018: Straight_Half:Panel_Wall_Straight_CurvedUpper1
+    400020: Straight_Half:Panel_Wall_Straight_Flat_A
+    400022: Straight_Half:Panel_Wall_Straight_Flat_B
+    400024: Straight_Half:Straight_Half1
+    2300000: Snap_Set
+    2300002: Straight_Half:Cage_Half
+    2300004: Straight_Half:Cage_Half_ShadowBlocker
+    2300006: Straight_Half:Panel_Ceiling_Straight_Bare
+    2300008: Straight_Half:Panel_Floor_Straight_Bare
+    2300010: Straight_Half:Panel_Wall_Straight_CurvedLower
+    2300012: Straight_Half:Panel_Wall_Straight_CurvedLower1
+    2300014: Straight_Half:Panel_Wall_Straight_CurvedUpper
+    2300016: Straight_Half:Panel_Wall_Straight_CurvedUpper1
+    2300018: Straight_Half:Panel_Wall_Straight_Flat_A
+    2300020: Straight_Half:Panel_Wall_Straight_Flat_B
+    3300000: Snap_Set
+    3300002: Straight_Half:Cage_Half
+    3300004: Straight_Half:Cage_Half_ShadowBlocker
+    3300006: Straight_Half:Panel_Ceiling_Straight_Bare
+    3300008: Straight_Half:Panel_Floor_Straight_Bare
+    3300010: Straight_Half:Panel_Wall_Straight_CurvedLower
+    3300012: Straight_Half:Panel_Wall_Straight_CurvedLower1
+    3300014: Straight_Half:Panel_Wall_Straight_CurvedUpper
+    3300016: Straight_Half:Panel_Wall_Straight_CurvedUpper1
+    3300018: Straight_Half:Panel_Wall_Straight_Flat_A
+    3300020: Straight_Half:Panel_Wall_Straight_Flat_B
+    4300000: Straight_Half:Panel_Wall_Straight_Flat_B
+    4300002: Straight_Half:Panel_Wall_Straight_Flat_A
+    4300004: Straight_Half:Panel_Wall_Straight_CurvedLower
+    4300006: Straight_Half:Panel_Wall_Straight_CurvedUpper
+    4300008: Straight_Half:Panel_Wall_Straight_CurvedUpper1
+    4300010: Straight_Half:Panel_Wall_Straight_CurvedLower1
+    4300012: Straight_Half:Panel_Floor_Straight_Bare
+    4300014: Straight_Half:Panel_Ceiling_Straight_Bare
+    4300016: Straight_Half:Cage_Half_ShadowBlocker
+    4300018: Straight_Half:Cage_Half
+    4300020: Snap_Set
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

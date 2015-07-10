@@ -1,0 +1,14 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-4--1331417088
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=9 type=0 insize=1118 outsize=1159 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1118 outsize=7 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2053 outsize=3983 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2053 outsize=7 kw=LIGHTMAP_OFF ok=1
+End of pipe
+
+Quitting shader compiler process
