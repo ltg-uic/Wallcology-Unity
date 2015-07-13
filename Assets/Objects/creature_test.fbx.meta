@@ -38,7 +38,7 @@ ModelImporter:
     400028: joint9
     400030: Tally
     4300000: Tally
-    7400000: Take 001
+    7400000: Walk
     7400002: idle
     9500000: //RootNode
     13700000: Tally
@@ -50,8 +50,8 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     optimizeGameObjects: 0
-    motionNodeName: 
-    animationCompression: 1
+    motionNodeName: <Root Transform>
+    animationCompression: 3
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
@@ -59,7 +59,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
+      name: Walk
       takeName: Take 001
       firstFrame: -1
       lastFrame: 30
