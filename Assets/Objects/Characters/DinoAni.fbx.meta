@@ -1,92 +1,46 @@
 fileFormatVersion: 2
-guid: 62ea62632eeba44e19ad6458047540c5
-timeCreated: 1436806371
+guid: d8105e7f55c5e48cbbd93268d2a07ef2
+timeCreated: 1436828444
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
     100002: joint1
-    100004: joint11
-    100006: joint12
-    100008: joint13
-    100010: joint14
-    100012: joint15
-    100014: joint16
-    100016: joint17
-    100018: joint18
-    100020: joint19
-    100022: joint2
-    100024: joint20
-    100026: joint21
-    100028: joint22
-    100030: joint23
-    100032: joint24
-    100034: joint25
-    100036: joint26
-    100038: joint27
-    100040: joint28
-    100042: joint3
-    100044: joint4
-    100046: joint6
-    100048: joint7
-    100050: joint8
-    100052: joint9
-    100054: left
-    100056: pCube2
-    100058: pCube3
-    100060: pPlane1
-    100062: pPlane2
-    100064: pPlane3
+    100004: joint10
+    100006: joint11
+    100008: joint12
+    100010: joint13
+    100012: joint14
+    100014: joint2
+    100016: joint3
+    100018: joint4
+    100020: joint5
+    100022: joint6
+    100024: joint7
+    100026: joint8
+    100028: joint9
+    100030: Tally
     400000: //RootNode
     400002: joint1
-    400004: joint11
-    400006: joint12
-    400008: joint13
-    400010: joint14
-    400012: joint15
-    400014: joint16
-    400016: joint17
-    400018: joint18
-    400020: joint19
-    400022: joint2
-    400024: joint20
-    400026: joint21
-    400028: joint22
-    400030: joint23
-    400032: joint24
-    400034: joint25
-    400036: joint26
-    400038: joint27
-    400040: joint28
-    400042: joint3
-    400044: joint4
-    400046: joint6
-    400048: joint7
-    400050: joint8
-    400052: joint9
-    400054: left
-    400056: pCube2
-    400058: pCube3
-    400060: pPlane1
-    400062: pPlane2
-    400064: pPlane3
-    2300000: pCube2
-    2300002: pPlane1
-    2300004: pPlane2
-    2300006: pPlane3
-    3300000: pCube2
-    3300002: pPlane1
-    3300004: pPlane2
-    3300006: pPlane3
-    4300000: pPlane1
-    4300002: pPlane2
-    4300004: pPlane3
-    4300006: pCube2
-    4300008: pCube3
+    400004: joint10
+    400006: joint11
+    400008: joint12
+    400010: joint13
+    400012: joint14
+    400014: joint2
+    400016: joint3
+    400018: joint4
+    400020: joint5
+    400022: joint6
+    400024: joint7
+    400026: joint8
+    400028: joint9
+    400030: Tally
+    4300000: Tally
     7400000: Take 001
     9500000: //RootNode
-    13700000: pCube3
+    13700000: Tally
   materials:
     importMaterials: 1
     materialName: 0
