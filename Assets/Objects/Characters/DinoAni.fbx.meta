@@ -21,6 +21,17 @@ ModelImporter:
     100026: joint8
     100028: joint9
     100030: Tally
+    100032: creature
+    100034: jointLeftLeg
+    100036: jointRightLeg
+    100038: jointTail
+    100040: legs_tail_Joint
+    100042: nose_joint
+    100044: nose_tip_joint
+    100046: rootJoint
+    100048: torsoJoint
+    100050: BallyGeometry
+    100052: BallyRootJ
     400000: //RootNode
     400002: joint1
     400004: joint10
@@ -37,10 +48,25 @@ ModelImporter:
     400026: joint8
     400028: joint9
     400030: Tally
+    400032: creature
+    400034: jointLeftLeg
+    400036: jointRightLeg
+    400038: jointTail
+    400040: legs_tail_Joint
+    400042: nose_joint
+    400044: nose_tip_joint
+    400046: rootJoint
+    400048: torsoJoint
+    400050: BallyGeometry
+    400052: BallyRootJ
     4300000: Tally
-    7400000: Take 001
+    4300002: creature
+    4300004: BallyGeometry
+    7400000: walk
     9500000: //RootNode
     13700000: Tally
+    13700002: creature
+    13700004: BallyGeometry
   materials:
     importMaterials: 1
     materialName: 0
@@ -56,7 +82,65 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: creature
+        weight: 1
+      - path: rootJoint
+        weight: 1
+      - path: rootJoint/torsoJoint
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointLeftLeg
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointLeftLeg/joint5
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointLeftLeg/joint5/joint6
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointRightLeg
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointRightLeg/joint8
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointRightLeg/joint8/joint9
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointTail
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointTail/joint11
+        weight: 1
+      - path: rootJoint/torsoJoint/legs_tail_Joint/jointTail/joint11/joint12
+        weight: 1
+      - path: rootJoint/torsoJoint/nose_joint
+        weight: 1
+      - path: rootJoint/torsoJoint/nose_joint/nose_tip_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []

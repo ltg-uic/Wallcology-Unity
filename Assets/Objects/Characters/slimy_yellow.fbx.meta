@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: fa1e245c9a6d143a5817d0b2001610cd
+timeCreated: 1442089222
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bottomLip
+    100002: group1
+    100004: hip
+    100006: ikHandle1
+    100008: ikHandle2
+    100010: ikHandle3
+    100012: joint2
+    100014: joint3
+    100016: joint4
+    100018: joint5
+    100020: L_antenna1
+    100022: L_antenna2
+    100024: L_antennaTip
+    100026: L_eye
+    100028: L_Fleg2
+    100030: L_FtipToe
+    100032: L_head
+    100034: L_Rleg2
+    100036: L_RtipToe
+    100038: mouth
+    100040: nurbsCircle1
+    100042: R_antenna1
+    100044: R_antenna2
+    100046: R_antennaTip
+    100048: R_eye
+    100050: R_Fleg2
+    100052: R_FtipToe
+    100054: R_head
+    100056: R_Rleg2
+    100058: R_RtipToe
+    100060: skeleton1
+    100062: slimy
+    100064: //RootNode
+    100066: tale
+    100068: taleTip
+    100070: tongue
+    100072: tongue 1
+    100074: topLIp
+    400000: bottomLip
+    400002: group1
+    400004: hip
+    400006: ikHandle1
+    400008: ikHandle2
+    400010: ikHandle3
+    400012: joint2
+    400014: joint3
+    400016: joint4
+    400018: joint5
+    400020: L_antenna1
+    400022: L_antenna2
+    400024: L_antennaTip
+    400026: L_eye
+    400028: L_Fleg2
+    400030: L_FtipToe
+    400032: L_head
+    400034: L_Rleg2
+    400036: L_RtipToe
+    400038: mouth
+    400040: nurbsCircle1
+    400042: R_antenna1
+    400044: R_antenna2
+    400046: R_antennaTip
+    400048: R_eye
+    400050: R_Fleg2
+    400052: R_FtipToe
+    400054: R_head
+    400056: R_Rleg2
+    400058: R_RtipToe
+    400060: skeleton1
+    400062: slimy
+    400064: //RootNode
+    400066: tale
+    400068: taleTip
+    400070: tongue
+    400072: tongue 1
+    400074: topLIp
+    2300000: L_eye
+    2300002: R_eye
+    3300000: L_eye
+    3300002: R_eye
+    4300000: R_eye
+    4300002: L_eye
+    4300004: tongue
+    4300006: slimy
+    6400000: L_eye
+    6400002: R_eye
+    7400000: Walk
+    7400002: eat
+    9500000: //RootNode
+    13700000: slimy
+    13700002: tongue 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: tongue
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/L_eye
+        weight: 1
+      - path: group1/R_eye
+        weight: 1
+      - path: group1/slimy
+        weight: 1
+      - path: group1/tongue 1
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: skeleton1
+        weight: 1
+      - path: skeleton1/hip
+        weight: 1
+      - path: skeleton1/hip/L_Fleg2
+        weight: 1
+      - path: skeleton1/hip/L_Fleg2/L_FtipToe
+        weight: 1
+      - path: skeleton1/hip/L_Rleg2
+        weight: 1
+      - path: skeleton1/hip/L_Rleg2/L_RtipToe
+        weight: 1
+      - path: skeleton1/hip/R_Fleg2
+        weight: 1
+      - path: skeleton1/hip/R_Fleg2/R_FtipToe
+        weight: 1
+      - path: skeleton1/hip/R_Rleg2
+        weight: 1
+      - path: skeleton1/hip/R_Rleg2/R_RtipToe
+        weight: 1
+      - path: skeleton1/L_head
+        weight: 1
+      - path: skeleton1/L_head/L_antenna1
+        weight: 1
+      - path: skeleton1/L_head/L_antenna1/L_antenna2
+        weight: 1
+      - path: skeleton1/L_head/L_antenna1/L_antenna2/L_antennaTip
+        weight: 1
+      - path: skeleton1/mouth
+        weight: 1
+      - path: skeleton1/mouth/bottomLip
+        weight: 1
+      - path: skeleton1/mouth/topLIp
+        weight: 1
+      - path: skeleton1/R_head
+        weight: 1
+      - path: skeleton1/R_head/R_antenna1
+        weight: 1
+      - path: skeleton1/R_head/R_antenna1/R_antenna2
+        weight: 1
+      - path: skeleton1/R_head/R_antenna1/R_antenna2/R_antennaTip
+        weight: 1
+      - path: skeleton1/tale
+        weight: 1
+      - path: skeleton1/tale/taleTip
+        weight: 1
+      - path: tongue
+        weight: 1
+      - path: tongue/joint2
+        weight: 1
+      - path: tongue/joint2/joint3
+        weight: 1
+      - path: tongue/joint2/joint3/joint4
+        weight: 1
+      - path: tongue/joint2/joint3/joint4/joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: eat
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/L_eye
+        weight: 1
+      - path: group1/R_eye
+        weight: 1
+      - path: group1/slimy
+        weight: 1
+      - path: group1/tongue 1
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: skeleton1
+        weight: 1
+      - path: skeleton1/hip
+        weight: 1
+      - path: skeleton1/hip/L_Fleg2
+        weight: 1
+      - path: skeleton1/hip/L_Fleg2/L_FtipToe
+        weight: 1
+      - path: skeleton1/hip/L_Rleg2
+        weight: 1
+      - path: skeleton1/hip/L_Rleg2/L_RtipToe
+        weight: 1
+      - path: skeleton1/hip/R_Fleg2
+        weight: 1
+      - path: skeleton1/hip/R_Fleg2/R_FtipToe
+        weight: 1
+      - path: skeleton1/hip/R_Rleg2
+        weight: 1
+      - path: skeleton1/hip/R_Rleg2/R_RtipToe
+        weight: 1
+      - path: skeleton1/L_head
+        weight: 1
+      - path: skeleton1/L_head/L_antenna1
+        weight: 1
+      - path: skeleton1/L_head/L_antenna1/L_antenna2
+        weight: 1
+      - path: skeleton1/L_head/L_antenna1/L_antenna2/L_antennaTip
+        weight: 1
+      - path: skeleton1/mouth
+        weight: 1
+      - path: skeleton1/mouth/bottomLip
+        weight: 1
+      - path: skeleton1/mouth/topLIp
+        weight: 1
+      - path: skeleton1/R_head
+        weight: 1
+      - path: skeleton1/R_head/R_antenna1
+        weight: 1
+      - path: skeleton1/R_head/R_antenna1/R_antenna2
+        weight: 1
+      - path: skeleton1/R_head/R_antenna1/R_antenna2/R_antennaTip
+        weight: 1
+      - path: skeleton1/tale
+        weight: 1
+      - path: skeleton1/tale/taleTip
+        weight: 1
+      - path: tongue
+        weight: 1
+      - path: tongue/joint2
+        weight: 1
+      - path: tongue/joint2/joint3
+        weight: 1
+      - path: tongue/joint2/joint3/joint4
+        weight: 1
+      - path: tongue/joint2/joint3/joint4/joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

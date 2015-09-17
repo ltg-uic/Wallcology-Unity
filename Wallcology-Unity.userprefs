@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StateMachine/PatrolState.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyManager.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/StateMachine/StatePatternEnemy.cs" Line="7" Column="19" />
+      <File FileName="Assets/Scripts/StateMachine/PatrolState.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
