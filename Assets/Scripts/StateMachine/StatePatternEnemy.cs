@@ -4,8 +4,8 @@ using System.Collections;
 public class StatePatternEnemy : MonoBehaviour 
 {
 
-	public GameObject enemyLabel;                // The enemy to be aware of.
-	public String dump = "testLabel";
+	//public GameObject enemyLabel;                // The enemy to be aware of.
+
 
 	public float searchingTurnSpeed = 120f;
 	public float searchingDuration = 4f;
