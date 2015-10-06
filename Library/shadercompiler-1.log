@@ -1,11 +1,45 @@
 Base path: /Applications/Unity/Unity.app/Contents
-Pipe name: \\.\pipe\UnityShaderCompiler-1--1601396268
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1596501548
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=818 outsize=818 ok=1
+Cmd: preprocess
+  insize=1319 outsize=488 ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=1118 outsize=1030 kw=LIGHTMAP_OFF ok=1
+  error: 2 plat 0 at (45): undefined variable "unity_LightmapST" undefined variable "unity_LightmapST"
+  api=0 type=0 insize=1137 outsize=0 kw=LIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=472 outsize=472 ok=1
+Cmd: preprocess
+  insize=835 outsize=835 ok=1
+Cmd: preprocess
+  insize=730 outsize=730 ok=1
+Cmd: preprocess
+  insize=608 outsize=608 ok=1
+Cmd: preprocess
+  insize=1355 outsize=1355 ok=1
+Cmd: preprocess
+  insize=1772 outsize=563 ok=1
 Cmd: compileSnippet
-  api=5 type=1 insize=1118 outsize=6 kw=LIGHTMAP_OFF ok=1
+  api=0 type=0 insize=1511 outsize=1421 kw= ok=1
 Cmd: compileSnippet
-  api=5 type=0 insize=2053 outsize=3690 kw=LIGHTMAP_OFF ok=1
+  error: 2 plat 0 at (69): undefined variable "DecodeHDR"
+  api=0 type=1 insize=1511 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=316 outsize=316 ok=1
+Cmd: preprocess
+  insize=634 outsize=634 ok=1
+Cmd: preprocess
+  insize=963 outsize=963 ok=1
+Cmd: preprocess
+  insize=1725 outsize=1007 ok=1
 Cmd: compileSnippet
-  api=5 type=1 insize=2053 outsize=6 kw=LIGHTMAP_OFF ok=1
+  api=0 type=0 insize=1020 outsize=397 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1020 outsize=290 kw= ok=1
+Cmd: preprocess
+  insize=2735 outsize=971 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2072 outsize=1166 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2072 outsize=768 kw=LIGHTMAP_OFF ok=1
