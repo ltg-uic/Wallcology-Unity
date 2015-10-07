@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 1a938dea0b37b4492b19c9dfa433f082
+timeCreated: 1444084376
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bottomLip
+    100002: critter_
+    100004: group1
+    100006: group1_tongue
+    100008: hip
+    100010: ikHandle1
+    100012: ikHandle2
+    100014: ikHandle3
+    100016: joint2
+    100018: joint3
+    100020: joint4
+    100022: joint5
+    100024: L_antenna1
+    100026: L_antenna2
+    100028: L_antennaTip
+    100030: L_eye
+    100032: L_Fleg2
+    100034: L_FtipToe
+    100036: L_head
+    100038: L_Rleg2
+    100040: L_RtipToe
+    100042: mouth
+    100044: nurbsCircle1
+    100046: R_antenna1
+    100048: R_antenna2
+    100050: R_antennaTip
+    100052: R_eye
+    100054: R_eye_ncl1_1
+    100056: R_Fleg2
+    100058: R_FtipToe
+    100060: R_head
+    100062: R_Rleg2
+    100064: R_RtipToe
+    100066: skeleton1
+    100068: slimy
+    100070: //RootNode
+    100072: tale
+    100074: taleTip
+    100076: tongue
+    100078: tongue_ncl1_1
+    100080: topLIp
+    100082: transform1
+    100084: transform2
+    100086: transform3
+    100088: transform4
+    100090: transform5
+    100092: transform6
+    400000: bottomLip
+    400002: critter_
+    400004: group1
+    400006: group1_tongue
+    400008: hip
+    400010: ikHandle1
+    400012: ikHandle2
+    400014: ikHandle3
+    400016: joint2
+    400018: joint3
+    400020: joint4
+    400022: joint5
+    400024: L_antenna1
+    400026: L_antenna2
+    400028: L_antennaTip
+    400030: L_eye
+    400032: L_Fleg2
+    400034: L_FtipToe
+    400036: L_head
+    400038: L_Rleg2
+    400040: L_RtipToe
+    400042: mouth
+    400044: nurbsCircle1
+    400046: R_antenna1
+    400048: R_antenna2
+    400050: R_antennaTip
+    400052: R_eye
+    400054: R_eye_ncl1_1
+    400056: R_Fleg2
+    400058: R_FtipToe
+    400060: R_head
+    400062: R_Rleg2
+    400064: R_RtipToe
+    400066: skeleton1
+    400068: slimy
+    400070: //RootNode
+    400072: tale
+    400074: taleTip
+    400076: tongue
+    400078: tongue_ncl1_1
+    400080: topLIp
+    400082: transform1
+    400084: transform2
+    400086: transform3
+    400088: transform4
+    400090: transform5
+    400092: transform6
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

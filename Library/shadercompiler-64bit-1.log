@@ -1,3 +1,7 @@
 Base path: /Applications/Unity/Unity.app/Contents
+<<<<<<< Updated upstream
 Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2095297280
+=======
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1975284480
+>>>>>>> Stashed changes
 Cmd: getPlatforms
