@@ -1,7 +1,53 @@
 Base path: /Applications/Unity/Unity.app/Contents
-<<<<<<< Updated upstream
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2095297280
-=======
 Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1975284480
->>>>>>> Stashed changes
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=818 outsize=818 ok=1
+Cmd: preprocess
+  insize=1319 outsize=488 ok=1
+Cmd: preprocess
+  insize=472 outsize=472 ok=1
+Cmd: preprocess
+  insize=835 outsize=835 ok=1
+Cmd: preprocess
+  insize=730 outsize=730 ok=1
+Cmd: preprocess
+  insize=608 outsize=608 ok=1
+Cmd: preprocess
+  insize=1355 outsize=1355 ok=1
+Cmd: preprocess
+  insize=1772 outsize=563 ok=1
+Cmd: preprocess
+  insize=316 outsize=316 ok=1
+Cmd: preprocess
+  insize=634 outsize=634 ok=1
+Cmd: preprocess
+  insize=963 outsize=963 ok=1
+Cmd: preprocess
+  insize=1725 outsize=1007 ok=1
+Cmd: preprocess
+  insize=2735 outsize=971 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=530 outsize=3063 kw= pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=530 outsize=6 kw= pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=530 outsize=3287 kw=_EMISSION pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=530 outsize=6 kw=_EMISSION pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=3021 kw=_DETAIL_MULX2 pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=6 kw=_DETAIL_MULX2 pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=526 outsize=2846 kw= pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=526 outsize=6 kw= pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=982 outsize=11520 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=982 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=982 outsize=11968 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=982 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON _NORMALMAP pd= ok=1
