@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 63f75d016824f47f78bd42bbd394e29f
+labels:
+- Character
 timeCreated: 1444172352
 licenseType: Free
 ModelImporter:
@@ -104,6 +106,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: skeletonRoot
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 3
     animationRotationError: .5
     animationPositionError: .5
@@ -448,8 +454,10 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: skeletonRoot
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

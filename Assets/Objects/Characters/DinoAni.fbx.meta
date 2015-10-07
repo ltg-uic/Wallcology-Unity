@@ -63,6 +63,7 @@ ModelImporter:
     4300002: creature
     4300004: BallyGeometry
     7400000: walk
+    7400002: alerting
     9500000: //RootNode
     13700000: Tally
     13700002: creature
@@ -76,6 +77,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -141,6 +146,64 @@ ModelImporter:
         weight: 1
       maskType: 0
       maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: alerting
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BallyGeometry
+        weight: 1
+      - path: BallyRootJ
+        weight: 1
+      - path: BallyRootJ/torsoJoint
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointLeftLeg
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointLeftLeg/joint5
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointLeftLeg/joint5/joint6
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointRightLeg
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointRightLeg/joint8
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointRightLeg/joint8/joint9
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointTail
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointTail/joint11
+        weight: 1
+      - path: BallyRootJ/torsoJoint/legs_tail_Joint/jointTail/joint11/joint12
+        weight: 1
+      - path: BallyRootJ/torsoJoint/nose_joint
+        weight: 1
+      - path: BallyRootJ/torsoJoint/nose_joint/nose_tip_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -177,8 +240,10 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
