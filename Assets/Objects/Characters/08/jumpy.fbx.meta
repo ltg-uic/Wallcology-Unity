@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 83dedc26d473142048378624ea221e7e
+timeCreated: 1444275389
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ALL_CTRL
+    100002: BL_L_CTRL
+    100004: BL_R_CTRL
+    100006: ear1_L
+    100008: ear1_R
+    100010: ear2_L
+    100012: ear2_R
+    100014: EAR_L_CTRL
+    100016: EAR_R_CTRL
+    100018: ear_tip_L
+    100020: ear_tip_R
+    100022: eye_L
+    100024: eye_R
+    100026: eyeBall_L
+    100028: eyeBall_R
+    100030: f_ankle_L
+    100032: f_ankle_R
+    100034: f_hip_L
+    100036: f_hip_R
+    100038: f_knee_L
+    100040: f_knee_R
+    100042: f_toe_L
+    100044: f_toe_R
+    100046: f_topLeg_L
+    100048: f_topLeg_R
+    100050: FL_L_CTRL
+    100052: FL_R_CTRL
+    100054: Jumpy
+    100056: //RootNode
+    100058: neck
+    100060: r_ankle_L
+    100062: r_ankle_R
+    100064: r_hip_L
+    100066: r_hip_R
+    100068: r_knee_L
+    100070: r_knee_R
+    100072: r_toe_L
+    100074: r_toe_R
+    100076: r_topLeg_L
+    100078: r_topLeg_R
+    100080: root
+    100082: ROOT_CTRL
+    100084: spine1
+    100086: SPINE1_CTRL
+    100088: spine2
+    100090: SPINE2_CTRL
+    100092: tale_1
+    100094: tale_2
+    100096: tale_3
+    100098: ambientLight1
+    100100: ikHandle_BL_L
+    100102: ikHandle_BL_R
+    100104: ikHandle_FL_L
+    100106: ikHandle_FL_R
+    100108: nurbsPlane1
+    100110: nurbsPlane2
+    100112: nurbsPlane3
+    100114: referencePlanes
+    100116: bottom
+    100118: front1
+    100120: left
+    100122: right1
+    100124: top1
+    400000: ALL_CTRL
+    400002: BL_L_CTRL
+    400004: BL_R_CTRL
+    400006: ear1_L
+    400008: ear1_R
+    400010: ear2_L
+    400012: ear2_R
+    400014: EAR_L_CTRL
+    400016: EAR_R_CTRL
+    400018: ear_tip_L
+    400020: ear_tip_R
+    400022: eye_L
+    400024: eye_R
+    400026: eyeBall_L
+    400028: eyeBall_R
+    400030: f_ankle_L
+    400032: f_ankle_R
+    400034: f_hip_L
+    400036: f_hip_R
+    400038: f_knee_L
+    400040: f_knee_R
+    400042: f_toe_L
+    400044: f_toe_R
+    400046: f_topLeg_L
+    400048: f_topLeg_R
+    400050: FL_L_CTRL
+    400052: FL_R_CTRL
+    400054: Jumpy
+    400056: //RootNode
+    400058: neck
+    400060: r_ankle_L
+    400062: r_ankle_R
+    400064: r_hip_L
+    400066: r_hip_R
+    400068: r_knee_L
+    400070: r_knee_R
+    400072: r_toe_L
+    400074: r_toe_R
+    400076: r_topLeg_L
+    400078: r_topLeg_R
+    400080: root
+    400082: ROOT_CTRL
+    400084: spine1
+    400086: SPINE1_CTRL
+    400088: spine2
+    400090: SPINE2_CTRL
+    400092: tale_1
+    400094: tale_2
+    400096: tale_3
+    400098: ambientLight1
+    400100: ikHandle_BL_L
+    400102: ikHandle_BL_R
+    400104: ikHandle_FL_L
+    400106: ikHandle_FL_R
+    400108: nurbsPlane1
+    400110: nurbsPlane2
+    400112: nurbsPlane3
+    400114: referencePlanes
+    400116: bottom
+    400118: front1
+    400120: left
+    400122: right1
+    400124: top1
+    4300000: Jumpy
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Jumpy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

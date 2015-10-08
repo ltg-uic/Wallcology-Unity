@@ -1,0 +1,48 @@
+newmtl WC_Pipes4:polySurface651SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pipes1.png
+bump Pipes1.png -bm 1
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grunge_wall_1.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grunge_wall_4.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grunge_wall_5.png
+bump grunge_wall_5.png -bm -0.05
+Ni 1.00
+newmtl pasted__pasted__polySurface526SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pipes1.png
+bump Pipes1.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__polySurface526SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pipes1.png
+bump Pipes1.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50

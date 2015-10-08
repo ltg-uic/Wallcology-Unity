@@ -5,6 +5,8 @@ Project("{011B820A-CE06-5B3E-A4BE-863291ECBB36}") = "Wallcology-Unity", "Assembl
 EndProject
 Project("{011B820A-CE06-5B3E-A4BE-863291ECBB36}") = "Wallcology-Unity", "Assembly-CSharp.csproj", "{DF811F78-77D1-05DF-780A-B0CBC8391737}"
 EndProject
+Project("{011B820A-CE06-5B3E-A4BE-863291ECBB36}") = "Wallcology-Unity", "Assembly-CSharp-Editor.csproj", "{186FE7B2-8E5A-2896-539B-430DDB97C661}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,18 @@ Global
 		{DF811F78-77D1-05DF-780A-B0CBC8391737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF811F78-77D1-05DF-780A-B0CBC8391737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF811F78-77D1-05DF-780A-B0CBC8391737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186FE7B2-8E5A-2896-539B-430DDB97C661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186FE7B2-8E5A-2896-539B-430DDB97C661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186FE7B2-8E5A-2896-539B-430DDB97C661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186FE7B2-8E5A-2896-539B-430DDB97C661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																																																					GlobalSection(MonoDevelopProperties) = preSolution
+																																																																																																	GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																																																																								GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> bdef9f147874932ce7abf30901e23a7276372ab5
 =======
 																																																														GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> Stashed changes

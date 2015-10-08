@@ -1,10 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/QM_CharController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Spider Crawler/Scipts/SpiderSpawn.cs">
     <Files>
-      <File FileName="Assets/Scripts/QM_CharController.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/CrawlMotion.js" Line="84" Column="3" />
+      <File FileName="Assets/Scripts/QM_CharController.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/StateMachine/StatePatternEnemy.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/StateMachine/PatrolState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Spider Crawler/Scipts/SpiderSpawn.cs" Line="14" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

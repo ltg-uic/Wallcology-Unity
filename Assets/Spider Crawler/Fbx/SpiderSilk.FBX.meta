@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 21edd29f29235a1498c60ba88005e04d
+timeCreated: 1426850733
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box003
+    100002: Cylinder001
+    100004: Cylinder002
+    100006: Cylinder003
+    100008: Cylinder004
+    100010: Cylinder005
+    100012: Cylinder006
+    100014: Cylinder007
+    100016: Cylinder008
+    100018: Spider001
+    100020: Spider001 1
+    100022: Spider001 2
+    100024: Spider001 3
+    100026: Spider001Hub
+    100028: Spider001LLeg11
+    100030: Spider001LLeg12
+    100032: Spider001LLeg13
+    100034: Spider001LLeg1Platform
+    100036: Spider001LLeg21
+    100038: Spider001LLeg22
+    100040: Spider001LLeg23
+    100042: Spider001LLeg2Platform
+    100044: Spider001LLeg31
+    100046: Spider001LLeg32
+    100048: Spider001LLeg33
+    100050: Spider001LLeg3Platform
+    100052: Spider001LLeg41
+    100054: Spider001LLeg42
+    100056: Spider001LLeg43
+    100058: Spider001LLeg4Platform
+    100060: Spider001RLeg11
+    100062: Spider001RLeg12
+    100064: Spider001RLeg13
+    100066: Spider001RLeg1Platform
+    100068: Spider001RLeg21
+    100070: Spider001RLeg22
+    100072: Spider001RLeg23
+    100074: Spider001RLeg2Platform
+    100076: Spider001RLeg31
+    100078: Spider001RLeg32
+    100080: Spider001RLeg33
+    100082: Spider001RLeg3Platform
+    100084: Spider001RLeg41
+    100086: Spider001RLeg42
+    100088: Spider001RLeg43
+    100090: Spider001RLeg4Platform
+    100092: //RootNode
+    100094: Spin
+    400000: Box003
+    400002: Cylinder001
+    400004: Cylinder002
+    400006: Cylinder003
+    400008: Cylinder004
+    400010: Cylinder005
+    400012: Cylinder006
+    400014: Cylinder007
+    400016: Cylinder008
+    400018: Spider001
+    400020: Spider001 1
+    400022: Spider001 2
+    400024: Spider001 3
+    400026: Spider001Hub
+    400028: Spider001LLeg11
+    400030: Spider001LLeg12
+    400032: Spider001LLeg13
+    400034: Spider001LLeg1Platform
+    400036: Spider001LLeg21
+    400038: Spider001LLeg22
+    400040: Spider001LLeg23
+    400042: Spider001LLeg2Platform
+    400044: Spider001LLeg31
+    400046: Spider001LLeg32
+    400048: Spider001LLeg33
+    400050: Spider001LLeg3Platform
+    400052: Spider001LLeg41
+    400054: Spider001LLeg42
+    400056: Spider001LLeg43
+    400058: Spider001LLeg4Platform
+    400060: Spider001RLeg11
+    400062: Spider001RLeg12
+    400064: Spider001RLeg13
+    400066: Spider001RLeg1Platform
+    400068: Spider001RLeg21
+    400070: Spider001RLeg22
+    400072: Spider001RLeg23
+    400074: Spider001RLeg2Platform
+    400076: Spider001RLeg31
+    400078: Spider001RLeg32
+    400080: Spider001RLeg33
+    400082: Spider001RLeg3Platform
+    400084: Spider001RLeg41
+    400086: Spider001RLeg42
+    400088: Spider001RLeg43
+    400090: Spider001RLeg4Platform
+    400092: //RootNode
+    400094: Spin
+    2300000: Box003
+    2300002: Cylinder001
+    2300004: Cylinder002
+    2300006: Cylinder003
+    2300008: Cylinder004
+    2300010: Cylinder005
+    2300012: Cylinder006
+    2300014: Cylinder007
+    2300016: Cylinder008
+    2300018: Spider001 1
+    2300020: Spider001 2
+    2300022: Spider001 3
+    2300024: Spider001Hub
+    2300026: Spider001LLeg11
+    2300028: Spider001LLeg12
+    2300030: Spider001LLeg13
+    2300032: Spider001LLeg21
+    2300034: Spider001LLeg22
+    2300036: Spider001LLeg23
+    2300038: Spider001LLeg31
+    2300040: Spider001LLeg32
+    2300042: Spider001LLeg33
+    2300044: Spider001LLeg41
+    2300046: Spider001LLeg42
+    2300048: Spider001LLeg43
+    2300050: Spider001RLeg11
+    2300052: Spider001RLeg12
+    2300054: Spider001RLeg13
+    2300056: Spider001RLeg21
+    2300058: Spider001RLeg22
+    2300060: Spider001RLeg23
+    2300062: Spider001RLeg31
+    2300064: Spider001RLeg32
+    2300066: Spider001RLeg33
+    2300068: Spider001RLeg41
+    2300070: Spider001RLeg42
+    2300072: Spider001RLeg43
+    3300000: Box003
+    3300002: Cylinder001
+    3300004: Cylinder002
+    3300006: Cylinder003
+    3300008: Cylinder004
+    3300010: Cylinder005
+    3300012: Cylinder006
+    3300014: Cylinder007
+    3300016: Cylinder008
+    3300018: Spider001 1
+    3300020: Spider001 2
+    3300022: Spider001 3
+    3300024: Spider001Hub
+    3300026: Spider001LLeg11
+    3300028: Spider001LLeg12
+    3300030: Spider001LLeg13
+    3300032: Spider001LLeg21
+    3300034: Spider001LLeg22
+    3300036: Spider001LLeg23
+    3300038: Spider001LLeg31
+    3300040: Spider001LLeg32
+    3300042: Spider001LLeg33
+    3300044: Spider001LLeg41
+    3300046: Spider001LLeg42
+    3300048: Spider001LLeg43
+    3300050: Spider001RLeg11
+    3300052: Spider001RLeg12
+    3300054: Spider001RLeg13
+    3300056: Spider001RLeg21
+    3300058: Spider001RLeg22
+    3300060: Spider001RLeg23
+    3300062: Spider001RLeg31
+    3300064: Spider001RLeg32
+    3300066: Spider001RLeg33
+    3300068: Spider001RLeg41
+    3300070: Spider001RLeg42
+    3300072: Spider001RLeg43
+    4300000: Cylinder004
+    4300002: Cylinder001
+    4300004: Cylinder002
+    4300006: Cylinder003
+    4300008: Cylinder008
+    4300010: Cylinder005
+    4300012: Cylinder006
+    4300014: Cylinder007
+    4300016: Box003
+    4300018: Spider001Hub
+    4300020: Spider001
+    4300022: Spider001
+    4300024: Spider001
+    4300026: Spider001LLeg11
+    4300028: Spider001LLeg12
+    4300030: Spider001LLeg13
+    4300032: Spider001RLeg11
+    4300034: Spider001RLeg12
+    4300036: Spider001RLeg13
+    4300038: Spider001LLeg21
+    4300040: Spider001LLeg22
+    4300042: Spider001LLeg23
+    4300044: Spider001RLeg21
+    4300046: Spider001RLeg22
+    4300048: Spider001RLeg23
+    4300050: Spider001LLeg31
+    4300052: Spider001LLeg32
+    4300054: Spider001LLeg33
+    4300056: Spider001RLeg31
+    4300058: Spider001RLeg32
+    4300060: Spider001RLeg33
+    4300062: Spider001LLeg41
+    4300064: Spider001LLeg42
+    4300066: Spider001LLeg43
+    4300068: Spider001RLeg41
+    4300070: Spider001RLeg42
+    4300072: Spider001RLeg43
+    7400000: Take 001
+    7400002: Walk
+    7400004: Descent
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Box003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider001
+        weight: 1
+      - path: Spider001Hub
+        weight: 1
+      - path: Spider001Hub/Spider001 1
+        weight: 1
+      - path: Spider001Hub/Spider001 2
+        weight: 1
+      - path: Spider001Hub/Spider001 3
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11/Spider001LLeg12
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11/Spider001LLeg12/Spider001LLeg13
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21/Spider001LLeg22
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21/Spider001LLeg22/Spider001LLeg23
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31/Spider001LLeg32
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31/Spider001LLeg32/Spider001LLeg33
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41/Spider001LLeg42
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41/Spider001LLeg42/Spider001LLeg43
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11/Spider001RLeg12
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11/Spider001RLeg12/Spider001RLeg13
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21/Spider001RLeg22
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21/Spider001RLeg22/Spider001RLeg23
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31/Spider001RLeg32
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31/Spider001RLeg32/Spider001RLeg33
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41/Spider001RLeg42
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41/Spider001RLeg42/Spider001RLeg43
+        weight: 1
+      - path: Spider001LLeg1Platform
+        weight: 1
+      - path: Spider001LLeg2Platform
+        weight: 1
+      - path: Spider001LLeg3Platform
+        weight: 1
+      - path: Spider001LLeg4Platform
+        weight: 1
+      - path: Spider001RLeg1Platform
+        weight: 1
+      - path: Spider001RLeg2Platform
+        weight: 1
+      - path: Spider001RLeg3Platform
+        weight: 1
+      - path: Spider001RLeg4Platform
+        weight: 1
+      - path: Spin
+        weight: 1
+      - path: Spin/Box003
+        weight: 1
+      - path: Spin/Cylinder001
+        weight: 1
+      - path: Spin/Cylinder002
+        weight: 1
+      - path: Spin/Cylinder003
+        weight: 1
+      - path: Spin/Cylinder004
+        weight: 1
+      - path: Spin/Cylinder005
+        weight: 1
+      - path: Spin/Cylinder006
+        weight: 1
+      - path: Spin/Cylinder007
+        weight: 1
+      - path: Spin/Cylinder008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider001
+        weight: 1
+      - path: Spider001Hub
+        weight: 1
+      - path: Spider001Hub/Spider001 1
+        weight: 1
+      - path: Spider001Hub/Spider001 2
+        weight: 1
+      - path: Spider001Hub/Spider001 3
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11/Spider001LLeg12
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11/Spider001LLeg12/Spider001LLeg13
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21/Spider001LLeg22
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21/Spider001LLeg22/Spider001LLeg23
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31/Spider001LLeg32
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31/Spider001LLeg32/Spider001LLeg33
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41/Spider001LLeg42
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41/Spider001LLeg42/Spider001LLeg43
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11/Spider001RLeg12
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11/Spider001RLeg12/Spider001RLeg13
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21/Spider001RLeg22
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21/Spider001RLeg22/Spider001RLeg23
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31/Spider001RLeg32
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31/Spider001RLeg32/Spider001RLeg33
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41/Spider001RLeg42
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41/Spider001RLeg42/Spider001RLeg43
+        weight: 1
+      - path: Spider001LLeg1Platform
+        weight: 1
+      - path: Spider001LLeg2Platform
+        weight: 1
+      - path: Spider001LLeg3Platform
+        weight: 1
+      - path: Spider001LLeg4Platform
+        weight: 1
+      - path: Spider001RLeg1Platform
+        weight: 1
+      - path: Spider001RLeg2Platform
+        weight: 1
+      - path: Spider001RLeg3Platform
+        weight: 1
+      - path: Spider001RLeg4Platform
+        weight: 1
+      - path: Spin
+        weight: 1
+      - path: Spin/Box003
+        weight: 1
+      - path: Spin/Cylinder001
+        weight: 1
+      - path: Spin/Cylinder002
+        weight: 1
+      - path: Spin/Cylinder003
+        weight: 1
+      - path: Spin/Cylinder004
+        weight: 1
+      - path: Spin/Cylinder005
+        weight: 1
+      - path: Spin/Cylinder006
+        weight: 1
+      - path: Spin/Cylinder007
+        weight: 1
+      - path: Spin/Cylinder008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Descent
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Spider001
+        weight: 1
+      - path: Spider001Hub
+        weight: 1
+      - path: Spider001Hub/Spider001 1
+        weight: 1
+      - path: Spider001Hub/Spider001 2
+        weight: 1
+      - path: Spider001Hub/Spider001 3
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11/Spider001LLeg12
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg11/Spider001LLeg12/Spider001LLeg13
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21/Spider001LLeg22
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg21/Spider001LLeg22/Spider001LLeg23
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31/Spider001LLeg32
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg31/Spider001LLeg32/Spider001LLeg33
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41/Spider001LLeg42
+        weight: 1
+      - path: Spider001Hub/Spider001LLeg41/Spider001LLeg42/Spider001LLeg43
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11/Spider001RLeg12
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg11/Spider001RLeg12/Spider001RLeg13
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21/Spider001RLeg22
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg21/Spider001RLeg22/Spider001RLeg23
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31/Spider001RLeg32
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg31/Spider001RLeg32/Spider001RLeg33
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41/Spider001RLeg42
+        weight: 1
+      - path: Spider001Hub/Spider001RLeg41/Spider001RLeg42/Spider001RLeg43
+        weight: 1
+      - path: Spider001LLeg1Platform
+        weight: 1
+      - path: Spider001LLeg2Platform
+        weight: 1
+      - path: Spider001LLeg3Platform
+        weight: 1
+      - path: Spider001LLeg4Platform
+        weight: 1
+      - path: Spider001RLeg1Platform
+        weight: 1
+      - path: Spider001RLeg2Platform
+        weight: 1
+      - path: Spider001RLeg3Platform
+        weight: 1
+      - path: Spider001RLeg4Platform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
