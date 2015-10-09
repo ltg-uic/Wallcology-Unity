@@ -45,6 +45,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CritterAI_Patrol.cs" />
      <Compile Include="Assets\Scripts\EnemyManager.cs" />
      <Compile Include="Assets\Scripts\EnemyMovement.cs" />
      <Compile Include="Assets\Scripts\NutellaInterface.cs" />
@@ -72,6 +73,7 @@
      <Compile Include="Assets\Spider Crawler\standard assets\Image Effects (Pro Only)\SepiaToneEffect.cs" />
      <Compile Include="Assets\Spider Crawler\standard assets\Image Effects (Pro Only)\TwirlEffect.cs" />
      <Compile Include="Assets\Spider Crawler\standard assets\Image Effects (Pro Only)\VortexEffect.cs" />
+     <Compile Include="Assets\TemperatureControl.cs" />
      <None Include="Assets\Spider Crawler\standard assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Spider Crawler\standard assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
