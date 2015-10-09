@@ -41,8 +41,8 @@ ModelImporter:
     400032: dinoGeometry
     4300000: Tally
     4300002: dinoGeometry
-    7400000: idle
-    7400002: walking
+    7400000: 03_idle
+    7400002: 03_walking
     9500000: //RootNode
     13700000: Tally
     13700002: dinoGeometry
@@ -67,7 +67,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: idle
+      name: 03_idle
       takeName: Take 001
       firstFrame: 1
       lastFrame: 30
@@ -125,10 +125,10 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: walking
+      name: 03_walking
       takeName: Take 001
-      firstFrame: 30
-      lastFrame: 80
+      firstFrame: 50
+      lastFrame: 79
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -149,6 +149,8 @@ ModelImporter:
       events: []
       transformMask:
       - path: 
+        weight: 1
+      - path: dinoGeometry
         weight: 1
       - path: Skeleton
         weight: 1
@@ -177,8 +179,6 @@ ModelImporter:
       - path: Skeleton/root/hips/tale/tale1
         weight: 1
       - path: Skeleton/root/hips/tale/tale1/tale2
-        weight: 1
-      - path: Tally
         weight: 1
       maskType: 0
       maskSource: {instanceID: 0}

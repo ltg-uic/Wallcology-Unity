@@ -85,9 +85,9 @@ ModelImporter:
     4300002: L_eye
     4300004: tongue
     4300006: slimy
-    7400000: walking
-    7400002: eating
-    7400004: alerting
+    7400000: 02_walking
+    7400002: 02_eating
+    7400004: 02_alerting
     9500000: //RootNode
     13700000: slimy
     13700002: tongue
@@ -112,7 +112,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: walking
+      name: 02_walking
       takeName: Take 001
       firstFrame: 1
       lastFrame: 50
@@ -210,7 +210,7 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: eating
+      name: 02_eating
       takeName: Take 001
       firstFrame: 70
       lastFrame: 100
@@ -308,7 +308,7 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: alerting
+      name: 02_alerting
       takeName: Take 001
       firstFrame: 120
       lastFrame: 150

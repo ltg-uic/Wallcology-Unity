@@ -40,9 +40,9 @@ ModelImporter:
     400030: Root
     400032: TopLip
     4300000: Bally
-    7400000: eating
-    7400002: walking
-    7400004: scanning
+    7400000: 01_eating
+    7400002: 01_walking
+    7400004: 01_scanning
     9500000: //RootNode
     13700000: Bally
   materials:
@@ -66,7 +66,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: eating
+      name: 01_eating
       takeName: Take 001
       firstFrame: 1
       lastFrame: 25
@@ -126,7 +126,7 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: walking
+      name: 01_walking
       takeName: Take 001
       firstFrame: 50
       lastFrame: 80
@@ -186,7 +186,7 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: scanning
+      name: 01_scanning
       takeName: Take 001
       firstFrame: 100
       lastFrame: 150

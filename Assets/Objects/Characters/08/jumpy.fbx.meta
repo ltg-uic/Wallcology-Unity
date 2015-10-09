@@ -132,9 +132,9 @@ ModelImporter:
     400122: right1
     400124: top1
     4300000: Jumpy
-    7400000: jumping
-    7400002: scanning
-    7400004: walking
+    7400000: 08_jumping
+    7400002: 08_scanning
+    7400004: 08_walking
     9500000: //RootNode
     13700000: Jumpy
   materials:
@@ -158,7 +158,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: jumping
+      name: 08_jumping
       takeName: Take 001
       firstFrame: 1
       lastFrame: 30
@@ -310,7 +310,7 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: scanning
+      name: 08_scanning
       takeName: Take 001
       firstFrame: 70
       lastFrame: 120
@@ -462,7 +462,7 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: walking
+      name: 08_walking
       takeName: Take 001
       firstFrame: 200
       lastFrame: 230
