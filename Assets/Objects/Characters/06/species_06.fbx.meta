@@ -60,7 +60,7 @@ ModelImporter:
     400050: //RootNode
     400052: species_geometry
     4300000: species_geometry
-    7400000: walk
+    7400000: 06_walking
     9500000: //RootNode
     13700000: species_geometry
   materials:
@@ -72,6 +72,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -80,7 +84,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk
+      name: 06_walking
       takeName: Take 001
       firstFrame: 1
       lastFrame: 30
@@ -195,8 +199,10 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

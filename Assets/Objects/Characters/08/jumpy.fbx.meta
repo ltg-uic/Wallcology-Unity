@@ -132,7 +132,9 @@ ModelImporter:
     400122: right1
     400124: top1
     4300000: Jumpy
-    7400000: Take 001
+    7400000: 08_jumping
+    7400002: 08_scanning
+    7400004: 08_walking
     9500000: //RootNode
     13700000: Jumpy
   materials:
@@ -154,7 +156,463 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 08_jumping
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ALL_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_L_CTRL/ikHandle_BL_L
+        weight: 1
+      - path: ALL_CTRL/BL_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_R_CTRL/ikHandle_BL_R
+        weight: 1
+      - path: ALL_CTRL/EAR_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/EAR_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_L_CTRL/ikHandle_FL_L
+        weight: 1
+      - path: ALL_CTRL/FL_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_R_CTRL/ikHandle_FL_R
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL/SPINE1_CTRL
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL/SPINE2_CTRL
+        weight: 1
+      - path: ambientLight1
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: front1
+        weight: 1
+      - path: Jumpy
+        weight: 1
+      - path: left
+        weight: 1
+      - path: referencePlanes
+        weight: 1
+      - path: referencePlanes/nurbsPlane1
+        weight: 1
+      - path: referencePlanes/nurbsPlane2
+        weight: 1
+      - path: referencePlanes/nurbsPlane3
+        weight: 1
+      - path: right1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/r_hip_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L/r_ankle_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L/r_ankle_L/r_toe_L
+        weight: 1
+      - path: root/r_hip_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R/r_ankle_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R/r_ankle_R/r_toe_R
+        weight: 1
+      - path: root/spine1
+        weight: 1
+      - path: root/spine1/spine2
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L/f_ankle_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L/f_ankle_L/f_toe_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R/f_ankle_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R/f_ankle_R/f_toe_R
+        weight: 1
+      - path: root/spine1/spine2/neck
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L/ear2_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L/ear2_L/ear_tip_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R/ear2_R
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R/ear2_R/ear_tip_R
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_L
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_L/eyeBall_L
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_R
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_R/eyeBall_R
+        weight: 1
+      - path: root/tale_1
+        weight: 1
+      - path: root/tale_1/tale_2
+        weight: 1
+      - path: root/tale_1/tale_2/tale_3
+        weight: 1
+      - path: top1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 08_scanning
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ALL_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_L_CTRL/ikHandle_BL_L
+        weight: 1
+      - path: ALL_CTRL/BL_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_R_CTRL/ikHandle_BL_R
+        weight: 1
+      - path: ALL_CTRL/EAR_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/EAR_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_L_CTRL/ikHandle_FL_L
+        weight: 1
+      - path: ALL_CTRL/FL_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_R_CTRL/ikHandle_FL_R
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL/SPINE1_CTRL
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL/SPINE2_CTRL
+        weight: 1
+      - path: ambientLight1
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: front1
+        weight: 1
+      - path: Jumpy
+        weight: 1
+      - path: left
+        weight: 1
+      - path: referencePlanes
+        weight: 1
+      - path: referencePlanes/nurbsPlane1
+        weight: 1
+      - path: referencePlanes/nurbsPlane2
+        weight: 1
+      - path: referencePlanes/nurbsPlane3
+        weight: 1
+      - path: right1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/r_hip_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L/r_ankle_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L/r_ankle_L/r_toe_L
+        weight: 1
+      - path: root/r_hip_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R/r_ankle_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R/r_ankle_R/r_toe_R
+        weight: 1
+      - path: root/spine1
+        weight: 1
+      - path: root/spine1/spine2
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L/f_ankle_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L/f_ankle_L/f_toe_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R/f_ankle_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R/f_ankle_R/f_toe_R
+        weight: 1
+      - path: root/spine1/spine2/neck
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L/ear2_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L/ear2_L/ear_tip_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R/ear2_R
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R/ear2_R/ear_tip_R
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_L
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_L/eyeBall_L
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_R
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_R/eyeBall_R
+        weight: 1
+      - path: root/tale_1
+        weight: 1
+      - path: root/tale_1/tale_2
+        weight: 1
+      - path: root/tale_1/tale_2/tale_3
+        weight: 1
+      - path: top1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 08_walking
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ALL_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_L_CTRL/ikHandle_BL_L
+        weight: 1
+      - path: ALL_CTRL/BL_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/BL_R_CTRL/ikHandle_BL_R
+        weight: 1
+      - path: ALL_CTRL/EAR_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/EAR_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_L_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_L_CTRL/ikHandle_FL_L
+        weight: 1
+      - path: ALL_CTRL/FL_R_CTRL
+        weight: 1
+      - path: ALL_CTRL/FL_R_CTRL/ikHandle_FL_R
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL/SPINE1_CTRL
+        weight: 1
+      - path: ALL_CTRL/ROOT_CTRL/SPINE2_CTRL
+        weight: 1
+      - path: ambientLight1
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: front1
+        weight: 1
+      - path: Jumpy
+        weight: 1
+      - path: left
+        weight: 1
+      - path: referencePlanes
+        weight: 1
+      - path: referencePlanes/nurbsPlane1
+        weight: 1
+      - path: referencePlanes/nurbsPlane2
+        weight: 1
+      - path: referencePlanes/nurbsPlane3
+        weight: 1
+      - path: right1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/r_hip_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L/r_ankle_L
+        weight: 1
+      - path: root/r_hip_L/r_topLeg_L/r_knee_L/r_ankle_L/r_toe_L
+        weight: 1
+      - path: root/r_hip_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R/r_ankle_R
+        weight: 1
+      - path: root/r_hip_R/r_topLeg_R/r_knee_R/r_ankle_R/r_toe_R
+        weight: 1
+      - path: root/spine1
+        weight: 1
+      - path: root/spine1/spine2
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L/f_ankle_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_L/f_topLeg_L/f_knee_L/f_ankle_L/f_toe_L
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R/f_ankle_R
+        weight: 1
+      - path: root/spine1/spine2/f_hip_R/f_topLeg_R/f_knee_R/f_ankle_R/f_toe_R
+        weight: 1
+      - path: root/spine1/spine2/neck
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L/ear2_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_L/ear2_L/ear_tip_L
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R/ear2_R
+        weight: 1
+      - path: root/spine1/spine2/neck/ear1_R/ear2_R/ear_tip_R
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_L
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_L/eyeBall_L
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_R
+        weight: 1
+      - path: root/spine1/spine2/neck/eye_R/eyeBall_R
+        weight: 1
+      - path: root/tale_1
+        weight: 1
+      - path: root/tale_1/tale_2
+        weight: 1
+      - path: root/tale_1/tale_2/tale_3
+        weight: 1
+      - path: top1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
