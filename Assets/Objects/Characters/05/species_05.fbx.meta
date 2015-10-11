@@ -43,6 +43,7 @@ ModelImporter:
     400034: //RootNode
     4300000: orangeSlimy_Star
     7400000: 05_walking
+    7400002: 05_idle
     9500000: //RootNode
     13700000: orangeSlimy_Star
   materials:
@@ -69,6 +70,68 @@ ModelImporter:
       name: 05_walking
       takeName: Take 001
       firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/Head
+        weight: 1
+      - path: Hips/Head/joint4
+        weight: 1
+      - path: Hips/Head/joint5
+        weight: 1
+      - path: Hips/Slope_B
+        weight: 1
+      - path: Hips/Slope_B/joint1
+        weight: 1
+      - path: Hips/Slope_B/joint1/joint2
+        weight: 1
+      - path: Hips/Slope_F
+        weight: 1
+      - path: Hips/Slope_F/Slope1_F
+        weight: 1
+      - path: Hips/Slope_F/Slope1_F/Slope2_F
+        weight: 1
+      - path: Hips/Slope_L
+        weight: 1
+      - path: Hips/Slope_L/Slope1_L
+        weight: 1
+      - path: Hips/Slope_L/Slope1_L/Slope2_L
+        weight: 1
+      - path: Hips/Slope_R
+        weight: 1
+      - path: Hips/Slope_R/Slope1_R
+        weight: 1
+      - path: Hips/Slope_R/Slope1_R/Slope2_R
+        weight: 1
+      - path: orangeSlimy_Star
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 05_idle
+      takeName: Take 001
+      firstFrame: 50
       lastFrame: 60
       wrapMode: 0
       orientationOffsetY: 0

@@ -59,7 +59,8 @@ ModelImporter:
     3300002: slimyRings
     4300000: slimy
     4300002: slimyRings
-    7400000: walk
+    7400000: 07_walk
+    7400002: 07_idle
     9500000: //RootNode
     13700000: slimyRings
   materials:
@@ -71,6 +72,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -79,7 +84,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk
+      name: 07_walk
       takeName: Take 001
       firstFrame: 1
       lastFrame: 60
@@ -89,6 +94,68 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SkeletonCircles
+        weight: 1
+      - path: SkeletonCircles/Head
+        weight: 1
+      - path: SkeletonCircles/Head/joint8
+        weight: 1
+      - path: SkeletonCircles/Head/joint9
+        weight: 1
+      - path: SkeletonCircles/Slope_B
+        weight: 1
+      - path: SkeletonCircles/Slope_B/joint1
+        weight: 1
+      - path: SkeletonCircles/Slope_B/joint1/joint6
+        weight: 1
+      - path: SkeletonCircles/Slope_F
+        weight: 1
+      - path: SkeletonCircles/Slope_F/Slope1_F
+        weight: 1
+      - path: SkeletonCircles/Slope_F/Slope1_F/joint7
+        weight: 1
+      - path: SkeletonCircles/Slope_L
+        weight: 1
+      - path: SkeletonCircles/Slope_L/Slope_1_L
+        weight: 1
+      - path: SkeletonCircles/Slope_L/Slope_1_L/Slope_2_L
+        weight: 1
+      - path: SkeletonCircles/Slope_R
+        weight: 1
+      - path: SkeletonCircles/Slope_R/Slope1_R
+        weight: 1
+      - path: SkeletonCircles/Slope_R/Slope1_R/joint10
+        weight: 1
+      - path: slimyRings
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 07_idle
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -176,8 +243,10 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

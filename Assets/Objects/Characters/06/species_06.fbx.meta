@@ -61,6 +61,7 @@ ModelImporter:
     400052: species_geometry
     4300000: species_geometry
     7400000: 06_walking
+    7400002: 06_idle
     9500000: //RootNode
     13700000: species_geometry
   materials:
@@ -88,6 +89,86 @@ ModelImporter:
       takeName: Take 001
       firstFrame: 1
       lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: RootSkeleton
+        weight: 1
+      - path: RootSkeleton/C_1
+        weight: 1
+      - path: RootSkeleton/C_1/L_1
+        weight: 1
+      - path: RootSkeleton/C_1/L_1/L_1_1
+        weight: 1
+      - path: RootSkeleton/C_1/R_1
+        weight: 1
+      - path: RootSkeleton/C_1/R_1/R_1_1
+        weight: 1
+      - path: RootSkeleton/C_2
+        weight: 1
+      - path: RootSkeleton/C_2/L_2
+        weight: 1
+      - path: RootSkeleton/C_2/L_2/L_1_2
+        weight: 1
+      - path: RootSkeleton/C_2/R_2
+        weight: 1
+      - path: RootSkeleton/C_2/R_2/R_1_2
+        weight: 1
+      - path: RootSkeleton/C_3
+        weight: 1
+      - path: RootSkeleton/C_3/L_3
+        weight: 1
+      - path: RootSkeleton/C_3/L_3/L_1_3
+        weight: 1
+      - path: RootSkeleton/C_3/R_3
+        weight: 1
+      - path: RootSkeleton/C_3/R_3/R_1_3
+        weight: 1
+      - path: RootSkeleton/C_4
+        weight: 1
+      - path: RootSkeleton/C_4/L_4
+        weight: 1
+      - path: RootSkeleton/C_4/L_4/L_1_4
+        weight: 1
+      - path: RootSkeleton/C_4/R_4
+        weight: 1
+      - path: RootSkeleton/C_4/R_4/R_1_4
+        weight: 1
+      - path: RootSkeleton/neck
+        weight: 1
+      - path: RootSkeleton/neck/HeadTop
+        weight: 1
+      - path: RootSkeleton/neck/L_ear
+        weight: 1
+      - path: RootSkeleton/neck/R_ear
+        weight: 1
+      - path: species_geometry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 06_idle
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 90
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
